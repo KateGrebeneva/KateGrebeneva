@@ -30,6 +30,14 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-kate-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/katushelaaaa)
 
+-💥 Always happy to meet new people and am open to communication!
+
+-🎇 Assiduous, hardworking, empathetic, creative and incredibly kind!
+
+-🎓 Madly enjoy diving into the abyss of learning something new!
+
+-💞 Sending you my virtual hugs!
+
 ---
 
 ### :fire: My Stats :
