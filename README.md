@@ -20,8 +20,8 @@
 </div>
 </div>
 
-## 🎀Let's get to know each other:  
-I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CEPU.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8E%80Let's+get+to+know+each+other%3A" alt="Typing SVG" /></a>
+## I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CEPU.
 - :telescope: I'm studying at the department of Applied Informatics as an IT-specialist
 
 - :seedling: Exploring Web-design
@@ -40,5 +40,5 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ---
 
-### :fire: My Stats :
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%94%A5+My+Stats%3A+" alt="Typing SVG" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateGrebeneva&theme=dark&background=000000)](https://git.io/streak-stats)
