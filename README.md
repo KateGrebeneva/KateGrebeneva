@@ -21,7 +21,7 @@
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8E%80Let's+get+to+know+each+other%3A" alt="Typing SVG" /></a>
-## I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CEPU.
+## I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFpOXgyMmk0ZzQyODR6NG84dmQyYjRzYmpienAxdnJpZjEzY3h4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif" width="37"> from CEPU.
 - :telescope: I'm studying at the department of Applied Informatics as an IT-specialist
 
 - :seedling: Exploring Web-design
