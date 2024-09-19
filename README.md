@@ -42,3 +42,9 @@
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%94%A5+My+Stats%3A+" alt="Typing SVG" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateGrebeneva&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{KateGrebeneva}"/>
+</a>
+
+
