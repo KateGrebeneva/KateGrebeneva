@@ -52,7 +52,7 @@ height="40"/>&nbsp;
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%94%A5+My+Stats%3A+" alt="Typing SVG" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateGrebeneva&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=22&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8E%80+Come+on%2C+smile+at+my+little+bunny+helper+Rory!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=22&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8E%80+Come+on%2C+smile+at+my+little+bunny+helper+Rory!" alt="Typing SVG" /></a>
 <img src="https://media.tenor.com/m-bLuGd1pwwAAAAj/tonton-friends-tonton.gif" width="55px"/>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{KateGrebeneva}"/></a>
