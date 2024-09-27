@@ -10,9 +10,10 @@
   <a href="https://t.me/katttushkins">
     <img src="https://img.shields.io/badge/Telegram-pink?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+  <P><img src="https://komarev.com/ghpvc/?username=KateGrebeneva&style=flat-square&color=blue" alt=""/></P>
   <h1>
-  ✨hey, there!✨
-  <img src="https://i.pinimg.com/originals/ad/8d/b4/ad8db43bd2421c1195bcd9ea444eb45a.gif" width="55px"/>
+     ✨Hey, there!✨
+ <img src="https://i.pinimg.com/originals/ad/8d/b4/ad8db43bd2421c1195bcd9ea444eb45a.gif" width="55px"/>
 </h1>
 </div>  
 <div align="center">
@@ -56,6 +57,9 @@ height="40"/>&nbsp;
 <img src="https://media.tenor.com/m-bLuGd1pwwAAAAj/tonton-friends-tonton.gif" width="55px"/>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{KateGrebeneva}"/></a>
+  ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=CD164F&width=435&lines=%F0%9F%8E%A0Know+your+fortune!%F0%9F%8E%A0" alt="Typing SVG" /></a>
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
+   <img width="900" height="1" alt="">
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8F%86%F0%9F%A7%B8+My+awards%3A" alt="Typing SVG" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=KateGrebeneva)](https://github.com/ryo-ma/github-profile-trophy) <div id="header1" align="right">
