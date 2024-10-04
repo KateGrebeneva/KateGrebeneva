@@ -10,7 +10,6 @@
   <a href="https://t.me/katttushkins">
     <img src="https://img.shields.io/badge/Telegram-pink?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <P><img src="https://komarev.com/ghpvc/?username=KateGrebeneva&style=flat-square&color=blue" alt=""/></P>
   <h1>
      ✨Hey, there!✨
  <img src="https://i.pinimg.com/originals/ad/8d/b4/ad8db43bd2421c1195bcd9ea444eb45a.gif" width="55px"/>
