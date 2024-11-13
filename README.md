@@ -57,7 +57,13 @@ height="40"/>&nbsp;
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{KateGrebeneva}"/></a>
 
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJxMm9tdjA1MHBmOG1oZWpvN2Z2MHVwcXRtdjFyajZ0Y2w2a3NwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eLpEHpNhHSbU38NlVf/giphy.gif" width="140px"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=Keep+this+in+your+mind%3A" alt="Typing SVG" /></a>
+
+
+<div align="center">
+  
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?mode=mixed&type=horizontal&theme=dracula&quote=+No+matter+how+your+heart+is+grieving,+if+you+keep+on+believing,+the+dream+that+you+wish+will+come+true.&author=Cinderella)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=28&pause=1000&color=A11D1E&width=435&lines=%F0%9F%8F%86%F0%9F%A7%B8+My+awards%3A" alt="Typing SVG" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=KateGrebeneva)](https://github.com/ryo-ma/github-profile-trophy) <div id="header1" align="right">
-
