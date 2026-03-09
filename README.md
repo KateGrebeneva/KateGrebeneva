@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/disney-animation-beauty-and-the-beast-icc2B58HExEME" width="100%"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh1ajBxMmt2Nzg3YnE5eTdkZ2NvZGFvMTdnbW0zM3FzbHBmZWo4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icc2B58HExEME/giphy.gif" width="50%"/>
 <div id="badges">
   <a href="https://vk.com/katushelaaaa">
     <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white" alt="Vk Badge"/>
