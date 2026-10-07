@@ -4,212 +4,141 @@
 
 <br><br>
 
-# CATHERINE GREBENEVA
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&pause=1200&color=7A1F2B&center=true&vCenter=true&width=700&lines=CATHERINE+GREBENEVA;FULL-STACK+DEVELOPER;UI%2FUX+DESIGNER;CREATIVE+DEVELOPER" />
 
-### FULL-STACK DEVELOPER · UI/UX DESIGNER · CREATIVE DEVELOPER
+<br>
 
-*Технологии, дизайн и цифровые продукты.*
+### SOFTWARE · DESIGN · DIGITAL EXPERIENCES
+
+*Создаю цифровые продукты, в которых технология встречается с эстетикой.*
 
 <br>
 
 <a href="https://t.me/CatherineGrebeneva">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/TELEGRAM-7A1F2B?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://vk.com/katushelaaaa">
-<img src="https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=vk&logoColor=white"/>
+<img src="https://img.shields.io/badge/VK-7A1F2B?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/KateGrebeneva">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-7A1F2B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+<div align="center">
+
+# ✦ PROFILE ✦
+
+### DEVELOPER × DESIGNER
+
+</div>
+
+Я **Full-Stack разработчик и UI/UX дизайнер**, работающий на пересечении **кода, дизайна и креатива**.
+
+Создаю цифровые продукты целиком: от структуры и визуальной концепции до frontend, backend, API и базы данных.
+
+Мне важно, чтобы продукт был не только функциональным, но и **цельным, удобным и визуально выразительным**.
+
 <br>
 
----
-
 <div align="center">
 
-## ✦ ABOUT ME ✦
+**IDEA · DESIGN · CODE · PRODUCT**
 
 </div>
 
-Я **Full-Stack разработчик и UI/UX дизайнер**, который любит работать над продуктом целиком — от идеи и визуальной концепции до разработки и готового результата.
-
-Мне интересно соединять **технологии, дизайн и пользовательский опыт**, поэтому я могу заниматься как визуальной частью проекта, так и его технической реализацией.
-
-Я умею работать с **frontend, backend, базами данных, API, дизайном интерфейсов и мобильными решениями**.
-
-**Идея → UX → дизайн → разработка → тестирование → готовый продукт**
-
-Для меня важны не только работающий код, но и то, как продукт выглядит, ощущается и воспринимается пользователем.
-
 ---
 
 <div align="center">
 
-## ✦ WHAT I DO ✦
+# ✦ EXPERTISE ✦
+
+### WHAT I DO
 
 </div>
 
-### FULL-STACK DEVELOPMENT
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Создаю веб-приложения целиком — от клиентской части до серверной логики.
+### FULL-STACK
 
-* Frontend и Backend
-* REST API
-* Работа с базами данных
-* Авторизация и регистрация
-* Интеграция API
-* Серверная логика
-* Архитектура приложений
-* Адаптивные веб-приложения
-* Полноценные Full-Stack проекты
+Разрабатываю полноценные веб-приложения — от интерфейса до серверной логики.
 
----
+**Frontend · Backend · REST API · Databases · Authentication**
 
-### FRONTEND DEVELOPMENT
+</td>
 
-Создаю современные, интерактивные и адаптивные интерфейсы.
+<td width="50%" valign="top">
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Vite
-* Node.js
-* Express
-* Sass / SCSS
-* Tailwind CSS
-* Bootstrap
-* npm
-* REST API
-* JSON
-* Responsive Design
-* Component-based Development
+### UI / UX
 
----
+Проектирую интерфейсы и пользовательские сценарии до начала разработки.
 
-### BACKEND DEVELOPMENT
+**Figma · Prototyping · Design Systems · Responsive Design**
 
-Разрабатываю серверную часть приложений, API и бизнес-логику.
+</td>
+</tr>
 
-* Python
-* Django
-* FastAPI
-* Node.js
-* Express
-* REST API
-* Authentication
-* Database Integration
-* API Integration
-* Server-side Development
+<tr>
+<td width="50%" valign="top">
+
+### DIGITAL DESIGN
+
+Создаю визуальную концепцию продукта и его digital-идентичность.
+
+**Web Design · Branding · Visual Identity · Creative Direction**
+
+</td>
+
+<td width="50%" valign="top">
+
+### MOBILE
+
+Учитываю мобильный опыт и адаптивность на всех этапах продукта.
+
+**Mobile UI/UX · Mobile-first · Responsive Design**
+
+</td>
+</tr>
+</table>
 
 ---
-
-### DATABASES
-
-Работаю с реляционными базами данных и их интеграцией с приложениями.
-
-* PostgreSQL
-* MySQL
-* SQLite
-* SQL
-* Database Design
-* CRUD operations
-
----
-
-### UI / UX DESIGN
-
-Проектирую интерфейсы с нуля — от идеи и структуры до готового прототипа.
-
-* UI Design
-* UX Design
-* User Flow
-* Wireframes
-* Prototyping
-* Design Systems
-* UI Components
-* Visual Hierarchy
-* Responsive Design
-* Mobile UI/UX
-
----
-
-### GRAPHIC & DIGITAL DESIGN
-
-Работаю с визуальной частью цифровых продуктов и брендов.
-
-* Figma
-* Adobe Photoshop
-* Tilda
-* Graphic Design
-* Digital Design
-* Branding
-* Visual Identity
-* Creative Concepts
-* Landing Pages
-* Web Design
-
----
-
-### MOBILE DEVELOPMENT
-
-Работаю с мобильными интерфейсами и адаптацией цифровых продуктов.
-
-* Mobile Development
-* Mobile UI/UX
-* Responsive Interfaces
-* Mobile-first Design
-* Адаптация веб-приложений под мобильные устройства
-
----
-
 <div align="center">
 
-## ✦ TECHNOLOGY ✦
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=light" />
-
-<br><br>
+# ✦ STACK ✦
+<br>
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,vite,typescript,javascript,html,css,sass,tailwind,bootstrap,npm&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,sass,tailwind,bootstrap,typescript,javascript&theme=light"/>
 
 <br><br>
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express&theme=light" />
-
-<br><br>
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgresql,mysql,sqlite&theme=light"/>
 
 <br><br>
 
 ### DESIGN
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white"/>
+<img src="https://img.shields.io/badge/TILDA-7A1F2B?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
 ### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=light"/>
 
 </div>
 
@@ -217,66 +146,26 @@
 
 <div align="center">
 
-## ✦ MY TOOLKIT ✦
-
-</div>
-
-| Направление     | Технологии                                                    |
-| :-------------- | :------------------------------------------------------------ |
-| **Languages**   | Python · JavaScript · TypeScript · HTML5 · CSS3               |
-| **Frontend**    | React · Vite · JavaScript · TypeScript · HTML5 · CSS3         |
-| **CSS & UI**    | Sass / SCSS · Tailwind CSS · Bootstrap                        |
-| **Backend**     | Django · FastAPI · Node.js · Express                          |
-| **API**         | REST API · JSON · Postman                                     |
-| **Databases**   | PostgreSQL · MySQL · SQLite · SQL                             |
-| **Design**      | Figma · Photoshop · Tilda                                     |
-| **Development** | VS Code · Git · GitHub · npm · Docker                         |
-| **Mobile**      | Mobile Development · Mobile UI/UX · Responsive Design         |
-| **Approach**    | Full-Stack · UI/UX · Responsive · Component-based Development |
-
----
-
-<div align="center">
-
-## ✦ MY APPROACH ✦
+# ✦ PROCESS ✦
 
 ### FROM IDEA TO PRODUCT
 
 <br>
 
-**01 — CONCEPT**
+**01 — DISCOVER**
+Определяю задачу, аудиторию и концепцию продукта.
 
-Я начинаю с идеи, задачи и понимания того, для кого создаётся продукт.
+**02 — DESIGN**
+Создаю структуру, UX и визуальное направление.
 
-<br>
+**03 — DEVELOP**
+Перевожу дизайн в frontend и backend.
 
-**02 — UX**
+**04 — CONNECT**
+Подключаю API, базы данных и необходимые сервисы.
 
-Продумываю структуру, пользовательский путь и взаимодействие с интерфейсом.
-
-<br>
-
-**03 — DESIGN**
-
-Создаю визуальную концепцию, интерфейс и необходимые компоненты в Figma.
-
-<br>
-
-**04 — DEVELOPMENT**
-
-Переношу дизайн в рабочий продукт, разрабатывая frontend и backend.
-
-<br>
-
-**05 — API & DATABASE**
-
-Подключаю API, серверную логику и базы данных.
-
-<br>
-
-**06 — FINAL PRODUCT**
-
-Тестирую, адаптирую и довожу проект до полноценного рабочего состояния.
+**05 — POLISH**
+Довожу адаптивность, взаимодействия и визуальные детали до финала.
 
 </div>
 
@@ -284,47 +173,29 @@
 
 <div align="center">
 
-## ✦ WHAT I CAN BUILD ✦
+# ✦ DESIGN × CODE ✦
+
+### WHERE DEVELOPMENT MEETS AESTHETICS
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%2FUX-7A1F2B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FRONTEND-7A1F2B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-7A1F2B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESIGN-7A1F2B?style=for-the-badge"/>
+
+<br><br>
+
+*Мне нравится, когда хороший код выглядит так же хорошо,
+как и хороший дизайн.*
 
 </div>
-
-### WEB APPLICATIONS
-
-Полноценные веб-приложения с frontend, backend, API и базой данных.
-
-### LANDING PAGES
-
-Современные адаптивные лендинги с продуманным UI/UX и визуальной концепцией.
-
-### BUSINESS WEBSITES
-
-Сайты для компаний, проектов и личных брендов.
-
-### DASHBOARDS
-
-Административные панели, личные кабинеты и интерфейсы управления данными.
-
-### API & BACKEND
-
-Серверная логика, REST API, авторизация и работа с базами данных.
-
-### UI/UX PRODUCTS
-
-Проектирование цифровых продуктов от wireframe до готового интерфейса.
-
-### MOBILE INTERFACES
-
-Адаптивные и мобильные интерфейсы с учётом mobile-first подхода.
-
-### DIGITAL DESIGN
-
-Визуальные концепции, брендинг, графика и дизайн цифровых продуктов.
 
 ---
 
 <div align="center">
 
-## ✦ GITHUB STATISTICS ✦
+# ✦ GITHUB ✦
 
 <br>
 
@@ -332,7 +203,11 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KateGrebeneva&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KateGrebeneva&show_icons=true&theme=dark&bg_color=000000&hide_border=true&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KateGrebeneva&theme=flat&no-frame=true&no-bg=true&column=6"/>
 
 </div>
 
@@ -340,18 +215,13 @@
 
 <div align="center">
 
-## ✦ CURRENTLY ✦
+# ✦ CURRENTLY ✦
 
 ### СОЗДАЮ · ИЗУЧАЮ · ПРОЕКТИРУЮ · РАЗРАБАТЫВАЮ
 
 <br>
 
-*Код — мой инструмент.
-Дизайн — мой способ мышления.*
-
-<br><br>
-
-<img src="https://media.tenor.com/m-bLuGd1pwwAAAAj/tonton-friends-tonton.gif" width="65px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=7A1F2B&center=true&vCenter=true&width=650&lines=BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+PRODUCTS;DESIGNING+WITH+PURPOSE;CODING+WITH+STYLE" />
 
 <br><br>
 
@@ -360,5 +230,7 @@
 <br><br>
 
 ### ✦ CATHERINE GREBENEVA ✦
+
+*Code is my medium. Design is my language.*
 
 </div>
