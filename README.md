@@ -230,7 +230,4 @@
 <br><br>
 
 ### ✦ CATHERINE GREBENEVA ✦
-
-*Code is my medium. Design is my language.*
-
 </div>
